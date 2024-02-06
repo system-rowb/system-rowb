@@ -1,7 +1,7 @@
 <div align="center">
     <h1>Hello world!👋<br>I am Rob</h1>
     <p>And these are some of the projects that I've doing during my career as <b>data/progamming</b> enthusiast.</p>
-    <p>These are some of the topics that you may found scrolling my work.</p>
+    <p>Some of the topics that you may find while scrolling my work are:</p>
     <p>
         <img src="https://img.shields.io/badge/Python-3776AB" alt="python"/>
         <img src="https://img.shields.io/badge/Economics-green" alt="economics">
