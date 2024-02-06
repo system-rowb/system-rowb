@@ -1,9 +1,32 @@
-# **System-rowb**
-
-Hi! I am Rob, and these are some of the projects that I've doing during my career as **data/progamming** enthusiast. 
+<div>
+    <h1 style="text-align: center;">Hello world!👋<br>I am Rob</h1>
+    <p style="text-align: center;">And these are some of the projects that I've doing during my career as <b>data/progamming</b> enthusiast. Some of the tags you may found are:</p>
+    <p style="text-align: center;">
+        <img src="https://img.shields.io/badge/Python-3776AB" alt="python"/>
+        <img src="https://img.shields.io/badge/Economics-green" alt="economics">
+        <img src="https://img.shields.io/badge/Visualization-orange" alt="viz"/>
+        <img src="https://img.shields.io/badge/Analytics-blue" alt="analytics">
+        <br>
+        <img src="https://img.shields.io/badge/Machine_Learning-red" alt="machine_learning"/>
+        <img src="https://img.shields.io/badge/NLP-purple" alt="NLP"/>
+        <img src="https://img.shields.io/badge/R-276DC3" alt="R"/>
+        <img src="https://img.shields.io/badge/Quants-lime" alt="R"/>
+    </p>
+</div>
 
 ---
-## [**ENOEn: Un Análisis Geoespacial de la Informalidad en México 2022 Trimestre 1**](https://github.com/system-rowb/Data-Portfolio/tree/main/Visualization/GEO_Informalidad_Mexico)
+## [**SIEFORE Básica Inicial Optimización de Portafolio**](https://github.com/system-rowb/SIEFORE-Basica-Inicial)
+
+
+![quants](https://img.shields.io/badge/Quants-lime)
+![python](https://img.shields.io/badge/Python-3776AB)
+![visualization](https://img.shields.io/badge/Visualization-orange)
+
+A quantitative project that optimizes a portfolio with the Markowitz methodology for a fantasy SIEFORE Básica Inicial, a mexican retirement investment fund.
+
+![portfolio_optimo](https://github.com/system-rowb/SIEFORE-Basica-Inicial/blob/main/img/portafolio_optimo_op.png)
+
+## [**ENOEN: Un Análisis Geoespacial de la Informalidad en México 2022 Trimestre 1**](https://github.com/system-rowb/Data-Portfolio/tree/main/Visualization/GEO_Informalidad_Mexico)
 
 
 ![python](https://img.shields.io/badge/Python-3776AB)
