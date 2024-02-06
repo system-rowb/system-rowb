@@ -1,7 +1,7 @@
-<div>
-    <h1 style="text-align: center;">Hello world!👋<br>I am Rob</h1>
-    <p style="text-align: center;">And these are some of the projects that I've doing during my career as <b>data/progamming</b> enthusiast. Some of the tags you may found are:</p>
-    <p style="text-align: center;">
+<div align="center">
+    <h1>Hello world!👋<br>I am Rob</h1>
+    <p>And these are some of the projects that I've doing during my career as <b>data/progamming</b> enthusiast. Some of the tags you may found are:</p>
+    <p>
         <img src="https://img.shields.io/badge/Python-3776AB" alt="python"/>
         <img src="https://img.shields.io/badge/Economics-green" alt="economics">
         <img src="https://img.shields.io/badge/Visualization-orange" alt="viz"/>
@@ -15,7 +15,7 @@
 </div>
 
 ---
-## [**SIEFORE Básica Inicial Optimización de Portafolio**](https://github.com/system-rowb/SIEFORE-Basica-Inicial)
+## [**SIEFORE Básica Inicial: Optimización de Portafolio**](https://github.com/system-rowb/SIEFORE-Basica-Inicial)
 
 
 ![quants](https://img.shields.io/badge/Quants-lime)
