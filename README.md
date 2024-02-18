@@ -1,18 +1,42 @@
 <div align="center">
-    <h1>Hello world!👋<br>I am Rob</h1>
-    <p>And these are some of the projects that I've doing during my career as <b>data/progamming</b> enthusiast.</p>
-    <p>Some of the topics that you may find while scrolling my work are:</p>
+    <div>
+        <h1>Hello world!👋<br>I am Rob</h1>
+    </div>
+    <div>
+        <h2>My projects 👨‍💻</h2>
+        <p>These are some of the projects that I've doing during my career as <b>data/progamming</b>
+         enthusiast.
+        </p>
+        <p>Some of the topics that you may find while scrolling my work are:</p>
+        <p>
+            <img src="https://img.shields.io/badge/Python-3776AB" alt="python"/>
+            <img src="https://img.shields.io/badge/Economics-green" alt="economics">
+            <img src="https://img.shields.io/badge/Visualization-orange" alt="viz"/>
+            <img src="https://img.shields.io/badge/Analytics-blue" alt="analytics">
+            <br>
+            <img src="https://img.shields.io/badge/Machine_Learning-red" alt="machine_learning"/>
+            <img src="https://img.shields.io/badge/NLP-purple" alt="NLP"/>
+            <img src="https://img.shields.io/badge/R-276DC3" alt="R"/>
+            <img src="https://img.shields.io/badge/Quants-lime" alt="R"/>
+        </p>
+    </div>
+    <div>
+        <h2>My Certifications 🏆</h2>
+        <p>
+        Also, some of the the
+        <b>professional certifications</b>,
+        <b>especializations</b> and
+        <b>courses</b>
+        that had helped me build
+        <b>skills</b> and
+        <b>knowledge</b>
+        during my career are:
+        <div alt="imgs">
+            <img src="https://github.com/system-rowb/system-rowb/blob/main/certs/big_data_with_pyspark.png" alt="Big Data with Pyspark">
+        </div>
+        </p>
+    </div>
     <p>
-        <img src="https://img.shields.io/badge/Python-3776AB" alt="python"/>
-        <img src="https://img.shields.io/badge/Economics-green" alt="economics">
-        <img src="https://img.shields.io/badge/Visualization-orange" alt="viz"/>
-        <img src="https://img.shields.io/badge/Analytics-blue" alt="analytics">
-        <br>
-        <img src="https://img.shields.io/badge/Machine_Learning-red" alt="machine_learning"/>
-        <img src="https://img.shields.io/badge/NLP-purple" alt="NLP"/>
-        <img src="https://img.shields.io/badge/R-276DC3" alt="R"/>
-        <img src="https://img.shields.io/badge/Quants-lime" alt="R"/>
-    </p>
 </div>
 
 ---
@@ -40,6 +64,10 @@ A project that analyzes **informal employment** in Mexico, 2022 from a **geospac
 One of the main conclusions is that there is a strong correlation between **multidimensional poverty rate** and the **informal employment rate**.
 
 ![poverty_informality_correlation](https://github.com/system-rowb/Data-Portfolio/blob/main/Visualization/GEO_Informalidad_Mexico/imgs/poverty_informality_correlation.png)
+
+![multidimensional_poverty_mexico](https://github.com/system-rowb/Data-Portfolio/blob/main/Visualization/GEO_Informalidad_Mexico/imgs/multidimensional_poverty_mexico.png)
+
+![informal_employment](![multidimensional_poverty_mexico](https://github.com/system-rowb/Data-Portfolio/blob/main/Visualization/GEO_Informalidad_Mexico/imgs/multidimensional_poverty_mexico.png))
 
 ## [**Fake vs. Real: A Sentiment Analysis and Prediction of Political News**](https://github.com/system-rowb/Data-Portfolio/tree/main/NLP/Fake_news)
 
