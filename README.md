@@ -1,14 +1,12 @@
 <div align="center">
     <div>
-        <h1>
-            Hello world!
-            <br>I am Rob
-        </h1>
+        <h1>Hello World!</h1>
     </div>
     <div>
         <h2>My projects 👨‍💻</h2>
         <p>
-            These are some of the projects that I've doing during my career as <b>data/progamming</b>
+            I am Rob
+            <br> and these are some of the projects that I've doing during my career as <b>data/progamming</b>
             enthusiast.
         </p>
         <p>Some of the topics that you may find while scrolling my work are:</p>
@@ -72,7 +70,7 @@ One of the main conclusions is that there is a strong correlation between **mult
 
 ![poverty_informality_correlation](https://github.com/system-rowb/Data-Portfolio/blob/main/Visualization/GEO_Informalidad_Mexico/imgs/poverty_informality_correlation.png)
 ![multidimensional_poverty_mexico](https://github.com/system-rowb/Data-Portfolio/blob/main/Visualization/GEO_Informalidad_Mexico/imgs/multidimensional_poverty_mexico.png)
-![informal_employment](![multidimensional_poverty_mexico](https://github.com/system-rowb/Data-Portfolio/blob/main/Visualization/GEO_Informalidad_Mexico/imgs/multidimensional_poverty_mexico.png))
+![informal_employment_mexico](https://github.com/system-rowb/Data-Portfolio/blob/main/Visualization/GEO_Informalidad_Mexico/imgs/informal_employment_mexico.png)
 
 ## [**Fake vs. Real: A Sentiment Analysis and Prediction of Political News**](https://github.com/system-rowb/Data-Portfolio/tree/main/NLP/Fake_news)
 
