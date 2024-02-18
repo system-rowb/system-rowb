@@ -1,11 +1,15 @@
 <div align="center">
     <div>
-        <h1>Hello world!👋<br>I am Rob</h1>
+        <h1>
+            Hello world!
+            <br>I am Rob
+        </h1>
     </div>
     <div>
         <h2>My projects 👨‍💻</h2>
-        <p>These are some of the projects that I've doing during my career as <b>data/progamming</b>
-         enthusiast.
+        <p>
+            These are some of the projects that I've doing during my career as <b>data/progamming</b>
+            enthusiast.
         </p>
         <p>Some of the topics that you may find while scrolling my work are:</p>
         <p>
@@ -23,7 +27,7 @@
     <div>
         <h2>My Certifications 🏆</h2>
         <p>
-        Also, some of the the
+        Also, some of the
         <b>professional certifications</b>,
         <b>especializations</b> and
         <b>courses</b>
@@ -33,6 +37,9 @@
         during my career are:
         <div alt="imgs">
             <img src="https://github.com/system-rowb/system-rowb/blob/main/certs/big_data_with_pyspark.png" alt="Big Data with Pyspark">
+            <img src="https://github.com/system-rowb/system-rowb/blob/main/certs/google_data_analytics.png" alt="Google Data Analytics">
+            <img src="https://github.com/system-rowb/system-rowb/blob/main/certs/applied_data_science_with_python.png" alt="Applied Data Science with Python">
+            <img src="https://github.com/system-rowb/system-rowb/blob/main/certs/google_it_automation_with_python.png" alt="Google IT Automation with Python">
         </div>
         </p>
     </div>
@@ -64,9 +71,7 @@ A project that analyzes **informal employment** in Mexico, 2022 from a **geospac
 One of the main conclusions is that there is a strong correlation between **multidimensional poverty rate** and the **informal employment rate**.
 
 ![poverty_informality_correlation](https://github.com/system-rowb/Data-Portfolio/blob/main/Visualization/GEO_Informalidad_Mexico/imgs/poverty_informality_correlation.png)
-
 ![multidimensional_poverty_mexico](https://github.com/system-rowb/Data-Portfolio/blob/main/Visualization/GEO_Informalidad_Mexico/imgs/multidimensional_poverty_mexico.png)
-
 ![informal_employment](![multidimensional_poverty_mexico](https://github.com/system-rowb/Data-Portfolio/blob/main/Visualization/GEO_Informalidad_Mexico/imgs/multidimensional_poverty_mexico.png))
 
 ## [**Fake vs. Real: A Sentiment Analysis and Prediction of Political News**](https://github.com/system-rowb/Data-Portfolio/tree/main/NLP/Fake_news)
