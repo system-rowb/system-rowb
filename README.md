@@ -3,7 +3,6 @@
         <h1>Hello World!</h1>
     </div>
     <div>
-        <h2>My projects 👨‍💻</h2>
         <p>
             I am Rob, and these are some of the projects that I've doing during my career as <b>data/progamming</b>
             enthusiast. Some of the topics that you may find while scrolling my work are:
