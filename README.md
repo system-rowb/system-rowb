@@ -5,11 +5,9 @@
     <div>
         <h2>My projects 👨‍💻</h2>
         <p>
-            I am Rob
-            <br> and these are some of the projects that I've doing during my career as <b>data/progamming</b>
-            enthusiast.
+            I am Rob, and these are some of the projects that I've doing during my career as <b>data/progamming</b>
+            enthusiast. Some of the topics that you may find while scrolling my work are:
         </p>
-        <p>Some of the topics that you may find while scrolling my work are:</p>
         <p>
             <img src="https://img.shields.io/badge/Python-3776AB" alt="python"/>
             <img src="https://img.shields.io/badge/Economics-green" alt="economics">
@@ -22,7 +20,7 @@
             <img src="https://img.shields.io/badge/Quants-lime" alt="R"/>
         </p>
     </div>
-    <div>
+    <!-- <div>
         <h2>My Certifications 🏆</h2>
         <p>
         Also, some of the
@@ -34,13 +32,13 @@
         <b>knowledge</b>
         during my career are:
         <div alt="imgs">
-            <img src="https://github.com/system-rowb/system-rowb/blob/main/certs/big_data_with_pyspark.png" width=300 height=200 padding=5px 5px 5px 5px alt="Big Data with Pyspark">
-            <img src="https://github.com/system-rowb/system-rowb/blob/main/certs/google_data_analytics.png" width=300 height=200 padding=5px 5px 5px 5px alt="Google Data Analytics">
+            <img src="https://github.com/system-rowb/system-rowb/blob/main/certs/big_data_with_pyspark.png" width=300 height=200 alt="Big Data with Pyspark">
+            <img src="https://github.com/system-rowb/system-rowb/blob/main/certs/google_data_analytics.png" width=300 height=200  alt="Google Data Analytics">
             <img src="https://github.com/system-rowb/system-rowb/blob/main/certs/applied_data_science_with_python.png" width=300 height=200 alt="Applied Data Science with Python">
             <img src="https://github.com/system-rowb/system-rowb/blob/main/certs/google_it_automation_with_python.png" witdh=300 height=200 alt="Google IT Automation with Python">
-        </div>
-        </p>
-    </div>
+        </div> -->
+        <!-- </p>
+    </div> -->
     <p>
 </div>
 
