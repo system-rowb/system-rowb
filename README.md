@@ -34,8 +34,8 @@
         <b>knowledge</b>
         during my career are:
         <div alt="imgs">
-            <img src="https://github.com/system-rowb/system-rowb/blob/main/certs/big_data_with_pyspark.png" width=300 height=200 alt="Big Data with Pyspark">
-            <img src="https://github.com/system-rowb/system-rowb/blob/main/certs/google_data_analytics.png" width=300 height=200 alt="Google Data Analytics">
+            <img src="https://github.com/system-rowb/system-rowb/blob/main/certs/big_data_with_pyspark.png" width=300 height=200 padding=5px 5px 5px 5px alt="Big Data with Pyspark">
+            <img src="https://github.com/system-rowb/system-rowb/blob/main/certs/google_data_analytics.png" width=300 height=200 padding=5px 5px 5px 5px alt="Google Data Analytics">
             <img src="https://github.com/system-rowb/system-rowb/blob/main/certs/applied_data_science_with_python.png" width=300 height=200 alt="Applied Data Science with Python">
             <img src="https://github.com/system-rowb/system-rowb/blob/main/certs/google_it_automation_with_python.png" witdh=300 height=200 alt="Google IT Automation with Python">
         </div>
